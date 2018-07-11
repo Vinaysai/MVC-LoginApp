@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<form:form id="loginForm" modelAttribute="login" action="loginProcess"
+	<form:form id="loginForm" modelAttribute="login" action="loginprocess"
 		method="post">
 		<table align="center">
 			<tr>

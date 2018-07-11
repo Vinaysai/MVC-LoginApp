@@ -58,6 +58,7 @@
 			<artifactId>spring-beans</artifactId>
 			<version>4.3.18.RELEASE</version>
 		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
 		<dependency>
 			<groupId>org.springframework</groupId>
